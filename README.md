@@ -8,7 +8,7 @@
 
 **RUNE DIGITAL** | AI Research Company | Adelaide, Australia
 
-[Website](https://runedigitalstudio.com) • [Pitch Deck](MEDIA/pitch-deck.pdf) • [LinkedIn](https://linkedin.com/in/joelparkinson)
+[Website](https://runedigitalstudio.com) • [Pitch Deck](MEDIA/pitch-deck.pdf) • [LinkedIn](https://linkedin.com/in/joel-parkinson-adelaide)
 
 </div>
 
@@ -163,7 +163,7 @@ Adelaide, South Australia
 - 🌐 [Website](https://runedigitalstudio.com) - Full story, interactive experience
 - 📊 [Pitch Deck](MEDIA/pitch-deck.pdf) - 10-slide investor presentation
 - 📄 [One-Pager](MEDIA/one-pager.pdf) - Executive summary
-- 💼 [LinkedIn](https://linkedin.com/in/joelparkinson) - Connect with Joel
+- 💼 [LinkedIn](https://linkedin.com/in/joel-parkinson-adelaide) - Connect with Joel
 - 📧 [Email](mailto:joel@runedigitalstudio.com) - Get in touch
 
 ---
@@ -227,7 +227,7 @@ For commercial use or licensing inquiries: joel@runedigitalstudio.com
 
 - ⭐ Star this repo for updates
 - 👀 Watch for releases
-- 🔗 Follow [@joelparkinson](https://linkedin.com/in/joelparkinson) on LinkedIn
+- 🔗 Follow [@joelparkinson](https://linkedin.com/in/joel-parkinson-adelaide) on LinkedIn
 - 📧 Join waitlist: [runedigitalstudio.com](https://runedigitalstudio.com)
 
 ---
